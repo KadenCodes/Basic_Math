@@ -1,0 +1,15 @@
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/bin/Debug/net7.0/C#_Foundations
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/bin/Debug/net7.0/C#_Foundations.deps.json
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/bin/Debug/net7.0/C#_Foundations.runtimeconfig.json
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/bin/Debug/net7.0/C#_Foundations.dll
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/bin/Debug/net7.0/C#_Foundations.pdb
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/Debug/net7.0/C#_Foundations.csproj.AssemblyReference.cache
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/Debug/net7.0/C#_Foundations.GeneratedMSBuildEditorConfig.editorconfig
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/Debug/net7.0/C#_Foundations.AssemblyInfoInputs.cache
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/Debug/net7.0/C#_Foundations.AssemblyInfo.cs
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/Debug/net7.0/C#_Foundations.csproj.CoreCompileInputs.cache
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/Debug/net7.0/C#_Foundations.dll
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/Debug/net7.0/refint/C#_Foundations.dll
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/Debug/net7.0/C#_Foundations.pdb
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/Debug/net7.0/C#_Foundations.genruntimeconfig.cache
+/home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/Debug/net7.0/ref/C#_Foundations.dll

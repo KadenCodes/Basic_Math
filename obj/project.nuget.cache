@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkCMj/T0cqs1XFQfrl/lBpn10PwRPRQezKDNaXYp++O11b4rHqfAo0CIK6hDNsRkUqzxCtoPLfBgHJ25VH0kVA==",
+  "success": true,
+  "projectFilePath": "/home/kadenonarch/C#/TheC#Academy/C#_Foundations/C#_Foundations.csproj",
+  "expectedPackageFiles": [
+    "/home/kadenonarch/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /home/kadenonarch/C#/TheC#Academy/C#_Foundations/obj/project.nuget.cache : Object reference not set to an instance of an object."
+    }
+  ]
+}
